@@ -1,0 +1,10 @@
+{
+  "name": "gsense-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/gsense-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["gsense"],
+  "// targets": "to see all targets run: nx show project gsense-e2e --web",
+  "targets": {}
+}
